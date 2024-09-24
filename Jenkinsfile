@@ -11,7 +11,7 @@ pipeline {
         MAIN_REPO = 'https://github.com/Schmaew/jenkins-assignment'
         MAIN_BRANCH = 'main'
 
-        NAMESPACE = 'Schmaew'
+        NAMESPACE = 'schmaew'
         GITHUB_CRED = credentials('github-registry')
     }
 
