@@ -8,10 +8,10 @@ pipeline {
         ROBOT_BRANCH = 'main'
         ROBOT_FILE = 'unit_test.robot'
 
-        MAIN_REPO = 'https://https://github.com/CE-RELATIONSHIP/jenkins-assignment/'
-        MAIN_BRANCH = 'jenkins-pipeline-peqch-only'
+        MAIN_REPO = 'https://github.com/Schmaew/jenkins-assignment'
+        MAIN_BRANCH = 'main'
 
-        NAMESPACE = 'ce-relationship'
+        NAMESPACE = 'Schmaew'
         GITHUB_CRED = credentials('github-registry')
     }
 
