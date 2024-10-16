@@ -4,7 +4,7 @@ pipeline {
         APP_NAME = "web-api"
         IMAGE_NAME = 'spdx'
 
-        ROBOT_REPO = 'https://github.com/CE-RELATIONSHIP/jenkins-automate-testing'
+        ROBOT_REPO = 'https://github.com/Schmaew/robotframework'
         ROBOT_BRANCH = 'main'
         ROBOT_FILE = 'unit_test.robot'
 
